@@ -3,7 +3,7 @@
 int main()
 {
 	int divisible = 0;
-	int	divider = 0;
+	int divider = 0;
 	printf("Enter divisible ");
 	scanf_s("%d", &divisible);
 	printf("Enter divider ");
